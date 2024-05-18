@@ -18,3 +18,13 @@ This repository includes several folders, each corresponding to a different proj
 - **Tutorial Notebooks:** Step-by-step Jupyter notebooks explaining how to implement and train PINNs on simple hydrological models.
 - **Example Projects:** Complete projects demonstrating the application of PINNs to solve complex hydrological problems, such as groundwater flow and surface water dynamics.
 - **Utilities:** Helper scripts and modules that facilitate the construction and training of PINNs for different types of PDEs encountered in hydrological studies.
+
+## Notebooks
+
+In this repository, in addition to several projects related to the application of PINN in the hydrology field, you will find two specific notebooks:
+
+1. **heat_equation_pinn:** This notebook is for solving a one-dimensional transient heat equation. It serves as a simple case to illustrate the basic implementation of the PINN method.
+2. **2d_shallow_water_inverse:** This notebook is for solving a two-dimensional transient shallow water equation as an inverse problem. It demonstrates the application of PINNs to more complex hydrological phenomena.
+
+These notebooks provide hands-on examples of how PINNs can be applied to both simple and complex problems in hydrology, making them valuable resources for learning and experimentation.
+
