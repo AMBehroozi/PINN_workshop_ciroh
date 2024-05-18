@@ -28,3 +28,27 @@ In this repository, in addition to several projects related to the application o
 
 These notebooks provide hands-on examples of how PINNs can be applied to both simple and complex problems in hydrology, making them valuable resources for learning and experimentation.
 
+## Setting Up the Conda Environment
+
+To set up the Conda environment required for this project, follow these steps:
+
+1. **Install Conda:** If you don't already have Conda installed, download and install it from the [official Conda website](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
+
+2. **Clone the repository:**
+   ```sh
+   git clone https://github.com/AMBehroozi/PINN_workshop_ciroh.git
+   cd PINN_workshop_ciroh
+
+3. **Create the Conda environment:**
+    ```sh
+    conda env create -f environment.yml
+
+4. **Activate the environment:**
+    ```sh
+    conda activate pinn_workshop_env
+
+
+Alternatively, you can use the provided 'setup.sh' script to automate the setup process:
+
+This README file includes all the necessary instructions for setting up the Conda environment, cloning the repository, and it also provides a brief introduction to PINNs and the contents of the repository.
+
