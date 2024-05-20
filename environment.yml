@@ -1,4 +1,4 @@
-name: /data/amb10399/envs/fno
+name: PINN
 channels:
   - pytorch
   - nvidia
