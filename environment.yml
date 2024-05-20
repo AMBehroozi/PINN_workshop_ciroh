@@ -215,7 +215,6 @@ dependencies:
       - python-dotenv==1.0.1
       - scikit-learn==1.4.2
       - smt==2.5.1
-      - sourcedefender==11.0.20
       - tgcrypto==1.2.5
       - threadpoolctl==3.5.0
       - torchdiffeq==0.2.3
